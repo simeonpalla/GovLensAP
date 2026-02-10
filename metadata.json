@@ -1,0 +1,8 @@
+{
+  "name": "GovLens AP - Smart Grievance Intelligence Platform",
+  "description": "An AI-powered citizen grievance platform for Andhra Pradesh that uses Gemini 3 for multimodal analysis (image, audio, text) to categorize, prioritize, and estimate resources for civic issues.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
